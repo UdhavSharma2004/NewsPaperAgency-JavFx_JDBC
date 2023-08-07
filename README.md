@@ -1,6 +1,6 @@
 # Blood Bank Management
 
-<img src="./assets/Donate & Save a life.png" width="100%" style="border:solid 4px pink;">
+<img src="./assets/Donate  Save a life.webp" width="100%" style="border:solid 4px pink;">
 
 ## About this project
 
@@ -24,19 +24,9 @@ Hello there! My name is <a href="https://github.com/UdhavSharma2004" style="colo
 ## Usage
 
 to experience the Demo of the Java Software so formed, I have managed the order of pages as Page,md files in order of execution of program. These files have proper explanation under their context,
-Here are the direct links :-
+Here are the direct link :-
 
-* <a href="./Page1.md" style="color:#ff9f1c;">Page 1</a>
-* <a href="./Page.md" style="color:#ff9f1c;">Page </a>
-* <a href="./Page.md" style="color:#ff9f1c;">Page </a>
-* <a href="./Page.md" style="color:#ff9f1c;">Page </a>
-* <a href="./Page.md" style="color:#ff9f1c;">Page </a>
-* <a href="./Page.md" style="color:#ff9f1c;">Page </a>
-* <a href="./Page.md" style="color:#ff9f1c;">Page </a>
-* <a href="./Page.md" style="color:#ff9f1c;">Page </a>
-* <a href="./Page.md" style="color:#ff9f1c;">Page </a>
-* <a href="./Page.md" style="color:#ff9f1c;">Page </a>
-
+* <a href="./Page1.md" style="color:#ff9f1c;">Login Page</a>
 <hr>
 <br>
 
@@ -46,4 +36,4 @@ Thanks for checking this out,If you liked this project please follow me for more
 Feedback is appreciated,
 
 Regards,
-@UdhavSharma2004
+<b>Udhav Sharma
