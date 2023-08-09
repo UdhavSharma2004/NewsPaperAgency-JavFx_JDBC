@@ -1,23 +1,25 @@
-## Donations Record
+## Donor's Chronicles
 
-<br>
-This page handles the record accessibility of all donors, admin can access/search records based on various parameters like-
+📚 The Donations Record is a repository of stories etched in generosity, kindness, and the selfless act of giving life. Within its digital pages, every donor's journey is meticulously preserved, offering a panoramic view of their contributions.
 
-* searching based on registered mobile number
-* searching based on days inbetween the donation
-* searching on the basis of most active donor of bank
-* fetching all records
+### **Features**
 
-Also to make it more easily viewable, admin can extract/export the whole data table to excel file.
-<br>
-<img src="./assets/DonorsRecord.webp"/>
-<br>
-After Fetching the records as per required
-<br>
-<img src="./assets/DonorsRecordFilled.webp"/>
-<center><b>Donation Records Preview</b></center>
+1. **Parameterized Search:** Seamlessly search records based on diverse parameters, such as registered mobile number, days since the last donation, and more.
+
+2. **Active Donor Insights:** Gain insights into the most active donors, forming a foundation of gratitude and acknowledgment.
+
+3. **Effortless Data Export:** Empower administrators to extract the entire data table and export it to an Excel file for convenient viewing.
+
+Experience the power of shared humanity:
+
+![Donor's Chronicles](./assets/DonorsRecord.webp)
+
+_Witness the tale of giving unfold:_
+
+![Donor's Chronicles - Filled](./assets/DonorsRecordFilled.webp)
+
+<center><b>An Odyssey of Compassion</b></center>
 
 <center>
-<br>
-<hr><a href="./Page2.md"><b>Back to Admin Desk</b></a>
-<br>
+<hr><a href="./Page2.md"><b>Return to the Admin Desk</b></a>
+</center>
