@@ -1,16 +1,23 @@
+## Donations Record
+
 <br>
-After authenticating the user who's going to use the data, the software opens up Admin Desk Page which has navigation to different operations to perform
+This page handles the record accessibility of all donors, admin can access/search records based on various parameters like-
 
-here's the list for navigation available :-
+* searching based on registered mobile number
+* searching based on days inbetween the donation
+* searching on the basis of most active donor of bank
+* fetching all records
 
-* <a href="./Page3.md">Record tracking of Blood Units</a>
-* <a href="./Page4.md">Instant Blood Donation</a>
-* <a href="./Page5.md">Issuing Blood Instantly</a>
-* <a href="./Page6.md">Registration for New Blood Donors</a>
-* <a href="./Page7.md">Record of all Donations</a>
-* <a href="./Page8.md">Record of all Recipients who have taken Blood</a>
-* <a href="./Page9.md"><b>About the Developer</b></a>
+Also to make it more easily viewable, admin can extract/export the whole data table to excel file.
 <br>
-<img src="./assets/AdminPanel.webp" alt="Login Page Image" />
+<img src="./assets/DonorsRecord.webp"/>
+<br>
+After Fetching the records as per required
+<br>
+<img src="./assets/DonorsRecordFilled.webp"/>
+<center><b>Donation Records Preview</b></center>
 
-<center><b> Admin Panel Preview
+<center>
+<br>
+<hr><a href="./Page2.md"><b>Back to Admin Desk</b></a>
+<br>

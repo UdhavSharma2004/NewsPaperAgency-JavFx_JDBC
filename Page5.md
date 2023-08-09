@@ -1,16 +1,18 @@
+## Recipient Manager
+
 <br>
-After authenticating the user who's going to use the data, the software opens up Admin Desk Page which has navigation to different operations to perform
+This page handles the recipients record, for people who require blood units, or any other hospitals who require blood units for more than one patient, then this is handled easily here.
 
-here's the list for navigation available :-
+It firstly needs filling up all the details and requirements, then verification of units selected is done at which software checks from blood units whether the amount is available for further issuing, then the units are modified as required.
 
-* <a href="./Page3.md">Record tracking of Blood Units</a>
-* <a href="./Page4.md">Instant Blood Donation</a>
-* <a href="./Page5.md">Issuing Blood Instantly</a>
-* <a href="./Page6.md">Registration for New Blood Donors</a>
-* <a href="./Page7.md">Record of all Donations</a>
-* <a href="./Page8.md">Record of all Recipients who have taken Blood</a>
-* <a href="./Page9.md"><b>About the Developer</b></a>
+after that admin can issue the blood to recipient
 <br>
-<img src="./assets/AdminPanel.webp" alt="Login Page Image" />
+<img src="./assets/RecipientManager.webp"/>
+After verification
+<img src="./assets/RecipientManagerFilled.webp"/>
+<center><b>Recipient Manager Preview</b></center>
 
-<center><b> Admin Panel Preview
+<center>
+<br>
+<hr><a href="./Page2.md"><b>Back to Admin Desk</b></a>
+<br>

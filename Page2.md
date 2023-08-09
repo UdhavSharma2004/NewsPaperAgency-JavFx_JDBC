@@ -1,3 +1,5 @@
+## Admin Desk Page
+
 <br>
 After authenticating the user who's going to use the data, the software opens up Admin Desk Page which has navigation to different operations to perform
 
@@ -14,3 +16,8 @@ here's the list for navigation available :-
 <img src="./assets/AdminPanel.webp" alt="Login Page Image" />
 
 <center><b> Admin Panel Preview
+
+<center>
+<br>
+<hr><a href="./Page1.md"><b>Log Out</b></a>
+<br>

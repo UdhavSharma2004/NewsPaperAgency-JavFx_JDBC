@@ -4,7 +4,7 @@
 
 ## About this project
 
-Hello there! My name is <a href="https://github.com/UdhavSharma2004" style="color:blue;">Udhav Sharma</a> and I am a CSE student @GZSCCET (2021-25). Additionally, I am a Java and Full Stack web developer based in Bathinda. I have created this repository to exhibit one of my projects, which is Blood Bank Management software created under guidance of author of book <b>"Real Java"</b>, Mr. Rajesh K. Bansal during thee training as Java Developer June-July 2023, <a href="./Certificate.md" style="color:red;">Verified Here</a>. The software aims to automate and simplify various time-consuming tasks such as record-keeping, updating the blood quantity, searching through records, etc.
+Hello there! My name is <a href="https://github.com/UdhavSharma2004" style="color:blue;">Udhav Sharma</a> and I am a CSE student @GZSCCET (2021-25). Additionally, I am a Java and Full Stack web developer based in Bathinda. I have created this repository to exhibit one of my projects, which is Blood Bank Management software created under guidance of author of book <b>"Real Java"</b>, <b>Mr. Rajesh K. Bansal</b> during thee training as Java Developer June-July 2023, <a href="./Certificate.md" style="color:red;">Verified Here</a>. The software aims to automate and simplify various time-consuming tasks such as record-keeping, updating the blood quantity, searching through records, etc.
 
 <hr>
 <br>
@@ -27,6 +27,7 @@ to experience the Demo of the Java Software so formed, I have managed the order 
 Here are the direct link :-
 
 * <a href="./Page1.md" style="color:#ff9f1c;">Login Page</a>
+
 <hr>
 <br>
 
