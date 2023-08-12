@@ -1,21 +1,21 @@
-## Lifeline Chronicles
+## Bill Status Overview
 
-🩸 Within the precincts of the Blood Issue Record, a symphony of life-saving acts is meticulously composed. Every issued unit of blood encapsulates a story of compassion, resilience, and the pursuit of health. The repository ensures that these stories are never forgotten.
+This page serves as a central hub for managing the revenue of our agency, providing insights into bill payment statuses and more.
 
-### **Features**
+### **Key Features**
 
-1. **Strategic Search:** Admins can search records based on various parameters, including registered mobile numbers and days since issue.
+1. **Strategic Search:** Admins can swiftly search records using parameters like registered mobile numbers and payment status.
+2. **Effortless Data Export:** Empowers administrators to export the entire data table to an Excel file, streamlining data analysis.
+3. **Total Amount:** Provides an aggregated view of the entire revenue in Rupees.
 
-2. **Comprehensive Data:** Access records that reflect the interconnected threads of life-saving endeavors.
+![Empty table](./assets/BillBoardEmpty.webp)
 
-3. **Effortless Data Export:** Empower administrators to export the entire data table to an Excel file for simplified viewing.
+_After filling in details:_
 
-Dive into the symphony of life renewal:
+![Filled table](./assets/BillBoardBillStatus.webp)
 
-![Lifeline Chronicles](./assets/RecipientRecordFilled.webp)
+<div align="center"><b>Preview of Bill Status Board</b></div>
 
-<center><b>A Tapestry of Renewal</b></center>
-
-<center>
-<hr><a href="./Page2.md"><b>Return to the Admin Desk</b></a>
-</center>
+<div align="center">
+<hr><a href="./Page2.md"><b>Return to the Control Center</b></a>
+</div>

@@ -1,17 +1,17 @@
-## Blood Donation Orchestrator
+## Hawker Oversight Center
 
-🩸 Step into the realm where humanity's kindness converges with life-saving purpose – the Blood Donation Manager. This sacred space empowers donors to become heroes. Here, each drop of blood symbolizes hope, compassion, and the shared endeavor to make a difference.
+Welcome to the Hawker Oversight Center, the nexus for configuring details of newly admitted hawkers. Here, you can furnish textual particulars and upload images for verification. This hub empowers you to create, update, discontinue, and efficiently search for existing hawkers.
 
-Embrace the profound significance:
+Embrace the profound significance of this realm:
 
-![Blood Donation Orchestrator - Empty](./assets/DonationManagerEmpty.webp)
+![form  - Empty](./assets/HawkerManagerEmpty.webp)
 
 _Navigate the tapestry of life-changing contributions:_
 
-![Blood Donation Orchestrator - Filled](./assets/DonationManagerFilled.webp)
+![form - Filled](./assets/HawkerManagerFilled.webp)
 
-<center><b>Catalyst for Transformative Change</b></center>
+<div align="center"><b>Preview the Hawker Management</b></div>
 
-<center>
-<hr><a href="./Page2.md"><b>Return to the Admin Desk</b></a>
-</center>
+<div align="center">
+<hr><a href="./Page2.md"><b>Return to the Control Center</b></a>
+</div>

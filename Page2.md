@@ -1,23 +1,25 @@
-## Command Center: Admin Desk
+## Control Center: Administrative Hub
 
-🎯 Beyond the gates of authentication lies the epicenter of control – the Admin Desk Page. Here, the orchestrator gains access to an array of powerful operations that shape the life-saving mission. Each operation is a tool to wield, a choice to make, and a step towards a better world.
+🎯 Step beyond the gates of verification into the heart of command – the Administrative Hub. Here, you gain access to a set of powerful tools that help you efficiently manage customers' newspaper preferences.
 
-Navigate the possibilities at your fingertips:
+Discover a range of convenient options right at your fingertips:
 
-* [Record tracking of Blood Units](./Page3.md)
-* [Instant Blood Donation](./Page4.md)
-* [Issuing Blood Instantly](./Page5.md)
-* [Registration for New Blood Donors](./Page6.md)
-* [Record of all Donations](./Page7.md)
-* [Record of all Recipients who have taken Blood](./Page8.md)
-* [About the Developer](./Page9.md)
+* [Paper Management](./Page3.md)
+* [Hawker Management](./Page4.md)
+* [Customer Management](./Page5.md)
+* [Customer Overview](./Page6.md)
+* [Hawker Overview](./Page7.md)
+* [Bill Status Check](./Page8.md)
+* [Generate Bills](./Page9.md)
+* [Collect Bills](./Page10.md)
+* [Developer Info](./Page11.md)
 
-Unlock the door to empowerment:
+Open the door to empowerment:
 
-![Command Center: Admin Panel](./assets/AdminPanel.webp)
+![Control Center: Administrative Hub](./assets/AdminDesk.webp)
 
-<center><b>Embark on a Journey of Impact</b></center>
+<div align="center"><b>Begin Your Journey of Impact</b></div>
 
-<center>
-<hr><a href="./Page1.md"><b>Log Out</b></a>
-</center>
+<div align="center">
+<hr><a href="./Page1.md"><b>Logout</b></a>
+</div>
