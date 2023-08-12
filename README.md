@@ -1,4 +1,4 @@
-# THe Newspaper Agency Automation Software
+# The Newspaper Agency Automation Software
 
 ![Empower Knowledge](./assets/Our%20News%20App.png)
 
