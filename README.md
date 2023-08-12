@@ -1,4 +1,4 @@
-# The Epoch Herald: Empowering Information Delivery
+# THe Newspaper Agency Automation Software
 
 ![Empower Knowledge](./assets/Our%20News%20App.png)
 
